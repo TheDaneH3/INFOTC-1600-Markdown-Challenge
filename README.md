@@ -22,6 +22,7 @@ Welcome to the homepage of my INFOTC-1600 submission.
 
 Feel free to make your text **bold**, *italic*, or even ***both at once***.
 
+
 ***
 
 * Interested in learning about my rabbit, [Peaches](Peaches.md)?
