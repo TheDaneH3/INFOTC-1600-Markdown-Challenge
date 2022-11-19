@@ -3,7 +3,7 @@
 Welcome to the homepage of my INFOTC-1600 submission. 
 
 ***
-###Here are some interesting things you can do with markdown:
+### Here are some interesting things you can do with markdown:
 
 
 ### Create a list!
