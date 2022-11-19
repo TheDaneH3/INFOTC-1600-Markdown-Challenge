@@ -24,6 +24,9 @@ Feel free to make your text **bold**, *italic*, or even ***both at once***.
 
 
 ***
+Additionally, you can link to other pages (markdown files), which is especially useful in GitHub. 
+
+For example: 
 
 * Interested in learning about my rabbit, [Peaches](peaches.md)?
 
