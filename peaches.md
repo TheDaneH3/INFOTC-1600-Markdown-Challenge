@@ -11,7 +11,7 @@ Unfortunately, Peaches is not as smart as the average Dutch rabbit.
 
 ***
 
-![Peaches](DHC_0261.jpg)
+![Peaches](peaches.jpg)
 
 ***
 
